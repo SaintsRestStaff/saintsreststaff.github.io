@@ -1,0 +1,204 @@
+{
+  "Saints": {
+    "Hours": [
+      {
+        "Id": 0,
+        "Day": "Sunday",
+        "Open": "9:00",
+        "Close": "4:00"
+      },
+      {
+        "Id": 1,
+        "Day": "Monday",
+        "Open": "6:30",
+        "Close": "5:00"
+      },
+      {
+        "Id": 2,
+        "Day": "Tuesday",
+        "Open": "6:30",
+        "Close": "5:00"
+      },
+      {
+        "Id": 3,
+        "Day": "Wednesday",
+        "Open": "6:30",
+        "Close": "5:00"
+      },
+      {
+        "Id": 4,
+        "Day": "Thursday",
+        "Open": "6:30",
+        "Close": "5:00"
+      },
+      {
+        "Id": 5,
+        "Day": "Friday",
+        "Open": "6:30",
+        "Close": "5:00"
+      },
+      {
+        "Id": 6,
+        "Day": "Saturday",
+        "Open": "6:30",
+        "Close": "4:00"
+      }
+    ],
+    "Days": [
+      {
+        "Id": 0,
+        "Day": "Sunday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "8:00",
+            "End": "13:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": "Bella"
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "17:00",
+            "Length": "4:00",
+            "Position": "Barista",
+            "Worker": "Hans"
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Day": "Monday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "8:00",
+            "End": "13:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": null
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "17:00",
+            "Length": "4:00",
+            "Position": "Barista",
+            "Worker": null
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Day": "Tuesday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "6:00",
+            "End": "13:00",
+            "Length": "7:00",
+            "Position": "Barista",
+            "Worker": "Sam"
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "18:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": "Ashley"
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Day": "Wednesday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "8:00",
+            "End": "13:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": null
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "17:00",
+            "Length": "4:00",
+            "Position": "Barista",
+            "Worker": null
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Day": "Thursday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "8:00",
+            "End": "13:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": null
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "17:00",
+            "Length": "4:00",
+            "Position": "Barista",
+            "Worker": null
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Day": "Friday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "8:00",
+            "End": "13:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": null
+          },
+          {
+            "Id": "1",
+            "Start": "13:00",
+            "End": "17:00",
+            "Length": "4:00",
+            "Position": "Barista",
+            "Worker": null
+          }
+        ]
+      },
+      {
+        "Id": "6",
+        "Day": "Saturday",
+        "Shifts": [
+          {
+            "Id": "0",
+            "Start": "6:00",
+            "End": "12:00",
+            "Length": "6:00",
+            "Position": "Barista",
+            "Worker": "Bella"
+          },
+          {
+            "Id": "1",
+            "Start": "12:00",
+            "End": "17:00",
+            "Length": "5:00",
+            "Position": "Barista",
+            "Worker": null
+          }
+        ]
+      }
+    ]
+  }
+}
